@@ -1,0 +1,14 @@
+.panda-bg-info {
+  background-color: #fceae8;
+}
+.panda-button {
+  background-color: #ff2077;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.text-highlight {
+  color: #ff2077;
+}
